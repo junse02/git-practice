@@ -23,7 +23,7 @@
   1. mkdir git-practice && cd git-practice
   2. git init -b main
   3. git add README.md
-  4. git commit -m "Docs: 과제 제출용 README.md 기본 틀 작성" (3회 반복)
+  4. git commit -m [아래에 적어둔 커밋 메시지] (3회 반복)
   5. git switch -c feature/profile
   6. git remote add origin https://github.com/junse02/git-practice.git
   7. git push -u origin feature/profile
