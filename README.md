@@ -36,6 +36,6 @@
 
 ## PR 실습 기록
 - PR 제목: feature/profile 브랜치 내용 main 병합 요청
-- PR 링크: https://github.com/junse02/git-practice/pull/1
+- PR 링크: https://github.com/junse02/git-practice/pulls
 - PR에서 수정한 내용: 자기소개, 관심 분야, Git 명령어 정리 및 실습 기록
 - Merge 여부: 완료 (Merged)
